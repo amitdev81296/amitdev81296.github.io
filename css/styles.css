@@ -1117,11 +1117,11 @@ input[type='checkbox'] {
 }
 
 .tabs #tab-1 .progress-bar.first {
-	width: 100%;
+	width: 30%;
 }
 
 .tabs #tab-1 .progress-bar.second {
-	width: 75%;
+	width: 70%;
 }
 
 .tabs #tab-1 .progress-bar.third {
